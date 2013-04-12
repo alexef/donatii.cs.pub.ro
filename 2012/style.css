@@ -1,0 +1,215 @@
+* {
+	margin : 0;
+	outline : 0;
+	padding : 0;
+}
+
+body {
+	background : #DCDCDC url('resources/images/body-bg.jpg') repeat-x;
+	color : #808080;
+	font-family : 'Open Sans', 'Verdana', 'Geneva', sans-serif;
+	font-size : 14px;
+}
+
+a {
+	color : #808080;
+	/*text-decoration : none;*/
+}
+
+a:hover {
+	text-decoration : underline;
+}
+
+h1, h2, h3 { font-family: 'Noticia Text', 'Cambria', serif; }
+
+h1 {
+	color : #FF0032;
+	font-size : 28px;
+	font-weight : normal;
+	margin-bottom : 20px;
+}
+
+h2 {
+	color : #323232;
+	font-size : 22px;
+	font-weight : normal;
+	margin-bottom : 20px;
+}
+
+h3 {
+	color : #808080;
+	font-size : 18px;
+	font-weight : normal;
+	margin-bottom : 10px;
+}
+
+div.wrapper {
+	margin : 0 auto 0 auto;
+	padding : 0 5px 0 5px;
+	width : 960px;
+}
+
+div#menu {
+	height : 100px;
+}
+
+a#menu-logo {
+	background : url('resources/images/menu-logo.jpg') no-repeat;
+	display : block;
+	height : 180px;
+	position : absolute;
+	width : 180px;
+}
+
+div#menu-links {
+	float : right;
+	margin-top : 37px;
+}
+
+div#menu-links a {
+	color : #323232;
+	float : left;
+	font-weight : bold;
+	margin-left : 30px;
+	padding : 5px 10px 5px 10px;
+	text-decoration : none;
+}
+
+div#menu-links a.selected, div#menu-links a:hover {
+	background-color : #FF0032;
+	border-radius : 7px 7px 7px 7px;
+	color : #FFFFFF;
+
+	-moz-border-radius : 7px 7px 7px 7px;
+	-webkit-border-radius : 7px 7px 7px 7px;
+}
+
+div#large-bg {
+	background : url('resources/images/large-bg.jpg') 50% 0% no-repeat;
+	min-height : 600px;
+	width : 100%;
+}
+div#large-bg-2 {
+	background: url('resources/images/large-bg-2.jpg') 50% 0% no-repeat;
+	min-height: 600px;
+	width: 100%;
+}
+
+div#large-bg-overlay {
+	height : 294px;
+	padding : 100px 446px 0 0;
+	width : 446px;
+}
+
+div#large-bg-overlay h2 {
+	margin-bottom : 0;
+}
+
+div#large-bg-overlay p {
+	line-height : 18px;
+}
+
+div#large-bg-overlay a#button {
+	background : url('resources/images/button.png') no-repeat;
+	display : block;
+	height : 45px;
+	margin-top : 30px;
+	width : 200px;
+}
+
+div#large-bg-overlay a#button:hover {
+	background-position : 0% -45px;
+}
+
+div.col {
+	float : left;
+	margin-left : 24px;
+	width : 288px;
+}
+
+div.col-big {
+	float : left;
+	margin-left : 24px;
+	width : 600px;
+}
+
+div#white-top {
+	background : url('resources/images/white-top.png') no-repeat;
+	height : 30px;
+}
+
+div#white-middle {
+	background : url('resources/images/white-middle.png') repeat-y;
+	min-height: 400px;
+}
+
+div#white-middle span.title {
+	color : #323232;
+	display : block;
+	font-weight : bold;
+	font-size: 15px;
+	margin-bottom : 10px;
+}
+
+div#white-middle b {
+	color : #323232;
+}
+
+div#white-middle p b a {
+  color : #323232;
+}
+
+div#white-middle p#one {
+	background : url('resources/images/01.jpg') no-repeat;
+	padding-left : 50px;
+}
+
+div#white-middle p#two {
+	background : url('resources/images/02.jpg') no-repeat;
+	padding-left : 50px;
+}
+
+div#white-middle p#three {
+	background : url('resources/images/03.jpg') no-repeat;
+	padding-left : 50px;
+}
+
+div#white-middle div.separator {
+	border-bottom : 1px dotted #808080;
+	margin : 20px 0 20px 0;
+}
+
+div#white-bottom {
+	background : url('resources/images/white-bottom.png') no-repeat;
+	height : 30px;
+	margin-bottom : 30px;
+}
+
+div#footer-top {
+	background : url('resources/images/footer-top.jpg') no-repeat;
+	height : 10px;
+	margin-top : 30px;
+}
+
+div#footer-middle {
+	background : url('resources/images/footer-middle.jpg') repeat-y;
+}
+
+div#footer-middle p {
+	color : #323232;
+	padding : 10px 20px 10px 20px;
+}
+
+div#footer-middle p a {
+	color : #808080;
+}
+
+div#footer-bottom {
+	background : url('resources/images/footer-bottom.jpg') no-repeat;
+	height : 10px;
+	margin-bottom : 50px;
+}
+
+div.clear {
+	clear : both;
+}
