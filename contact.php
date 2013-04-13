@@ -28,7 +28,7 @@
 			</div><!-- .clear -->
 		</div><!-- .wrapper #menu -->
 
-		<div id="large-bg">
+		<div id="large-bg-none">
 
 			<div class="spacer" style="height:80px" > </div>
 			<div class="wrapper" id="white-top">
@@ -98,15 +98,15 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 					</p>
 					<br/>
 					<p><b>Laura Gheorghe</b></p>
-					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>					
+					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>
 					<br/>
 					<p><b>Raluca Podiuc</b></p>
-					<p><a href="mailto:ralucaelena1985@gmail.com">ralucaelena1985@gmail.com</a></p>					
+					<p><a href="mailto:ralucaelena1985@gmail.com">ralucaelena1985@gmail.com</a></p>
 
 
 <p><br/><br/></p>
 					<h2>Mulțumiri</h2>
-<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Călin&nbsp;Burloiu<p>	
+<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Călin&nbsp;Burloiu<p>
 				</div><!-- .col -->
 
 				<div class="clear">
@@ -120,7 +120,7 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 
 			<?php include('footer.inc.php'); ?>
 
-		</div><!-- #large-bg -->
+		</div><!-- #large-bg-none -->
 
 <!--		<script type="text/javascript">
 			Cufon.now();

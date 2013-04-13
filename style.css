@@ -89,10 +89,17 @@ div#large-bg {
 	min-height : 600px;
 	width : 100%;
 }
-div#large-bg-2 {
-	background: url('resources/images/large-bg-2.jpg') 50% 0% no-repeat;
+
+div#large-bg-alt {
+	background: url('resources/images/large-bg-alt.jpg') 50% 0% no-repeat;
 	min-height: 600px;
 	width: 100%;
+}
+
+div#large-bg-none {
+	background : url('resources/images/large-bg-none.jpg') 50% 0% no-repeat;
+	min-height : 600px;
+	width : 100%;
 }
 
 div#large-bg-overlay {
