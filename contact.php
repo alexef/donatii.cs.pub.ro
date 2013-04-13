@@ -73,7 +73,7 @@ E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro
 
 <dt>EG306</dt>
 <dd>
-Program: <b>L-V: 12:00 - 17:00</b><br/>
+Program: <b>L-V: 10:00 - 18:00</b><br/>
 Persoană de contact: Laura Vasilescu<br/>
 E-mail: <a href="mailto:vasilescu.laura@gmail.com">vasilescu.laura@gmail.com</a><br/>
 </dd>
@@ -98,7 +98,7 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 
 <p><br/><br/></p>
 					<h2>Mulțumiri</h2>
-<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Catalin Dogaru, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Călin&nbsp;Burloiu, Laura Vasilescu<p>
+<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Catalin Dogaru, Mircea&nbsp;Bardac, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Laura Vasilescu<p>
 				</div><!-- .col -->
 
 				<div class="clear">
