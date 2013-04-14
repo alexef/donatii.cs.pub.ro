@@ -9,7 +9,7 @@
 		<meta property="og:description" content="O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă vine din suflet. Sunt darurile mici și multe care aduc bucurie în inimile copiilor.">
 		<meta property="og:image" content="http://donatii.cs.pub.ro/resources/images/site-img-new.jpg"/>
 		<meta name="description" content="O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă vine din suflet. Sunt darurile mici și multe care aduc bucurie în inimile copiilor.">
-		<meta name="keywords" content="donatie, donatii, craciun, copii">
+		<meta name="keywords" content="donatie, donatii, copii">
 		<link media="screen" rel="stylesheet" type="text/css" href="style.css" />
 		<!--<script src="resources/js/cufon-yui.js" type="text/javascript"></script>
 		<script src="resources/js/cufon-yui.js" type="text/javascript"></script>
