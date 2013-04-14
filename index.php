@@ -33,7 +33,7 @@
 
 		<div id="large-bg">
 			<div class="wrapper" id="large-bg-overlay">
-				<h1>Inițiativa de Paște</h1>
+				<h1>Inițiativa de Paște 2013</h1>
 
 				<h2>Donații din suflet pentru copii</h2>
 
