@@ -23,7 +23,7 @@ a:hover {
 h1, h2, h3 { font-family: 'Noticia Text', 'Cambria', serif; }
 
 h1 {
-	color : #FF0032;
+	color : rgb(255, 38, 109);
 	font-size : 28px;
 	font-weight : normal;
 	margin-bottom : 20px;
@@ -76,7 +76,7 @@ div#menu-links a {
 }
 
 div#menu-links a.selected, div#menu-links a:hover {
-	background-color : #FF0032;
+	background-color : rgb(119, 176, 17);
 	border-radius : 7px 7px 7px 7px;
 	color : #FFFFFF;
 

@@ -65,7 +65,7 @@ dt {
 <dt>EG208</dt>
 <dd>
 Program: <b>L-V: 10:00 - 18:00</b><br/>
-Persoană de contact: Răzvan Deaconescu<br/>
+Persoană de contact: <b>Răzvan Deaconescu</b><br/>
 E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro</a><br/>
 </dd>
 
@@ -73,19 +73,10 @@ E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro
 
 <dt>EG306</dt>
 <dd>
-Program: <b>L-V: 12:00 - 17:00</b><br/>
-Persoană de contact: Călin Burloiu<br/>
-E-mail: <a href="mailto:calin.burloiu@gmail.com">calin.burloiu@gmail.com</a><br/>
+Program: <b>L-V: 10:00 - 18:00</b><br/>
+Persoană de contact: <b>Laura Vasilescu</b><br/>
+E-mail: <a href="mailto:vasilescu.laura@gmail.com">vasilescu.laura@gmail.com</a><br/>
 </dd>
-
-<dt>ED422</dt>
-<dd>
-Program: <b>Ma: 15:00 - 20:00, J: 12:00 - 20:00</b><br/>
-Persoană de contact: Laura Gheorghe<br/>
-E-mail: <a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a><br/>
-</dd>
-
-
 
 </dl>
 				</div><!-- .col-big -->
@@ -99,6 +90,7 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 					<br/>
 					<p><b>Laura Gheorghe</b></p>
 					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>
+					<p>Telefon: 0748094267</p>
 					<br/>
 					<p><b>Raluca Podiuc</b></p>
 					<p><a href="mailto:ralucaelena1985@gmail.com">ralucaelena1985@gmail.com</a></p>
@@ -106,7 +98,7 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 
 <p><br/><br/></p>
 					<h2>Mulțumiri</h2>
-<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Călin&nbsp;Burloiu<p>
+<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Catalin Dogaru, Mircea&nbsp;Bardac, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu, Laura Vasilescu<p>
 				</div><!-- .col -->
 
 				<div class="clear">
