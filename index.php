@@ -79,7 +79,7 @@
 					<br />
 
 					<p>
-						<b><a href="contact.php">Colectarea</a></b> are loc până pe 3 mai 2013
+						<b><a href="contact.php">Colectarea</a></b> are loc până pe 2 mai 2013
 						în sălile <b>EG208</b> și <b>EG306</b>, Facultatea de Automatică și
 						Calculatoare, UPB.
 					</p>
