@@ -65,7 +65,7 @@ dt {
 <dt>EG208</dt>
 <dd>
 Program: <b>L-V: 10:00 - 18:00</b><br/>
-Persoană de contact: Răzvan Deaconescu<br/>
+Persoană de contact: <b>Răzvan Deaconescu</b><br/>
 E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro</a><br/>
 </dd>
 
@@ -74,7 +74,7 @@ E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro
 <dt>EG306</dt>
 <dd>
 Program: <b>L-V: 10:00 - 18:00</b><br/>
-Persoană de contact: Laura Vasilescu<br/>
+Persoană de contact: <b>Laura Vasilescu</b><br/>
 E-mail: <a href="mailto:vasilescu.laura@gmail.com">vasilescu.laura@gmail.com</a><br/>
 </dd>
 
