@@ -37,7 +37,7 @@
 
 				<h2>Donații din suflet pentru copii</h2>
 
-				<h3>din partea studenților și a cadrelor didactice de la Facultatea de Automatică și Calculatoare și nu numai.</h3>
+				<h3>cu ocazia Sărbătorilor de Paște, din partea studenților și a cadrelor didactice de la Facultatea de Automatică și Calculatoare și nu numai.</h3>
 
 				<p style="padding-top: 5px">
                 O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă
