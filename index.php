@@ -79,7 +79,7 @@
 					<br />
 
 					<p>
-						<b><a href="contact.php">Colectarea</a></b> are loc până pe 21 decembrie 2013
+						<b><a href="contact.php">Colectarea</a></b> are loc până pe 20 decembrie 2013
 						în sălile <b>EG208</b>, <b>ED422</b>, <b>EG306</b> din Facultatea de Automatică și
 						Calculatoare, UPB.
 					</p>
