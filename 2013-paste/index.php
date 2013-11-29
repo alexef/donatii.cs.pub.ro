@@ -9,7 +9,7 @@
 		<meta property="og:description" content="O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă vine din suflet. Sunt darurile mici și multe care aduc bucurie în inimile copiilor.">
 		<meta property="og:image" content="http://donatii.cs.pub.ro/resources/images/site-img-new.jpg"/>
 		<meta name="description" content="O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă vine din suflet. Sunt darurile mici și multe care aduc bucurie în inimile copiilor.">
-		<meta name="keywords" content="donatie, donatii, craciun, copii">
+		<meta name="keywords" content="donatie, donatii, copii">
 		<link media="screen" rel="stylesheet" type="text/css" href="style.css" />
 		<!--<script src="resources/js/cufon-yui.js" type="text/javascript"></script>
 		<script src="resources/js/cufon-yui.js" type="text/javascript"></script>
@@ -33,11 +33,11 @@
 
 		<div id="large-bg">
 			<div class="wrapper" id="large-bg-overlay">
-				<h1>Inițiativa de Crăciun 2013</h1>
+				<h1>Inițiativa de Paște 2013</h1>
 
 				<h2>Donații din suflet pentru copii</h2>
 
-				<h3>din partea studenților și a cadrelor didactice de la Facultatea de Automatică și Calculatoare și nu numai.</h3>
+				<h3>cu ocazia Sărbătorilor de Paște, din partea studenților și a cadrelor didactice de la Facultatea de Automatică și Calculatoare și nu numai.</h3>
 
 				<p style="padding-top: 5px">
                 O jucărie, un dulce, o hăinuță, cărți sau rechizite, orice este bine primit dacă
@@ -53,10 +53,10 @@
 
 			<div class="wrapper" id="white-middle">
 				<div class="col">
-					<h2>Despre Inițiativa de Crăciun</h2>
+					<h2>Despre donatii.cs.pub.ro</h2>
 
 					<p>
-						Se apropie sărbătorile de iarnă cu pași mărunți.
+						Se apropie sărbătorile de Paște cu pași repezi.
 					</p>
 
 					<br />
@@ -79,8 +79,8 @@
 					<br />
 
 					<p>
-						<b><a href="contact.php">Colectarea</a></b> are loc până pe 21 decembrie 2013
-						în sălile <b>EG208</b>, <b>EG306</b> și <b>ED422</b>, Facultatea de Automatică și
+						<b><a href="contact.php">Colectarea</a></b> are loc până pe 2 mai 2013
+						în sala <b>EF303</b>, Facultatea de Automatică și
 						Calculatoare, UPB.
 					</p>
 
