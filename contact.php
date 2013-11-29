@@ -64,34 +64,27 @@ dt {
 
 <dt>EG208</dt>
 <dd>
-Program: <b>L-V: 10:00 - 18:00</b><br/>
-Persoană de contact: Răzvan Deaconescu<br/>
-E-mail: <a href="mailto:razvan.deaconescu@cs.pub.ro">razvan.deaconescu@cs.pub.ro</a><br/>
+Program: <b>L-V: 10:00 - 13:00, 14:00-20:00</b><br/>
+Persoană de contact: Laura Gheorghe<br/>
 </dd>
 
-
+<dt>ED422</dt>
+<dd>
+Program: <b>L-V: 11:00-13:00, 14:00-16:00</b><br/>
+Persoană de contact: Dan Dragomir<br/>
+</dd>
 
 <dt>EG306</dt>
 <dd>
-Program: <b>L-V: 12:00 - 17:00</b><br/>
-Persoană de contact: <br/>
-E-mail: <a href="mailto:"></a><br/>
+Program: <b>L: 10:00-16:00, Ma: 15:00-21:00, Mi: 10:00-16:00</b><br/>
+Persoană de contact: Lucia Roșculete<br/>
 </dd>
-
-<dt>EG208</dt>
-<dd>
-Program: <b>Ma: 15:00 - 20:00, J: 12:00 - 20:00</b><br/>
-Persoană de contact: Laura Gheorghe<br/>
-E-mail: <a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a><br/>
-</dd>
-
-
 
 </dl>
 				</div><!-- .col-big -->
 
 				<div class="col">
-					<h2>Persoane de contact</h2>
+					<h2>Persoana de contact</h2>
 
 					<p>
 Pentru mai multe informații despre această inițiativă, vă rugăm să trimiteți un e-mail către
@@ -100,13 +93,8 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 					<p><b>Laura Gheorghe</b></p>
 					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>					
 					<br/>
-					<p><b>Raluca Podiuc</b></p>
-					<p><a href="mailto:ralucaelena1985@gmail.com">ralucaelena1985@gmail.com</a></p>					
-
-
-<p><br/><br/></p>
 					<h2>Mulțumiri</h2>
-<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Andrei&nbsp;Epure, Liviu&nbsp;Ioan, Răzvan&nbsp;Deaconescu<p>	
+<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Mircea&nbsp;Bardac, Alex&nbsp;Eftimie, Cristian Condurache, Petre Eftime<p>	
 				</div><!-- .col -->
 
 				<div class="clear">
