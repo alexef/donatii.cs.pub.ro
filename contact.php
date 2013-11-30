@@ -76,7 +76,7 @@ Persoană de contact: Dan Dragomir<br/>
 
 <dt>EG306</dt>
 <dd>
-Program: <b>L: 10:00-16:00, Ma: 15:00-21:00, Mi: 10:00-16:00</b><br/>
+Program: <b>L: 10:00-16:00, Ma: 15:00-21:00, Mi: 10:00-16:00, J: 10:00-16:00</b><br/>
 Persoană de contact: Lucia Roșculete<br/>
 </dd>
 
@@ -94,7 +94,7 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>					
 					<br/>
 					<h2>Mulțumiri</h2>
-<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Mircea&nbsp;Bardac, Dan Dragomir, Lucia Rosculete,  Cristian Condurache, Petre Eftime<p>	
+<p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Mircea&nbsp;Bardac, Răzvan Deaconescu, Dan Dragomir, Lucia Rosculete,  Cristian Condurache, Petre Eftime<p>	
 				</div><!-- .col -->
 
 				<div class="clear">
