@@ -91,7 +91,8 @@ Pentru mai multe informații despre această inițiativă, vă rugăm să trimit
 					</p>
 					<br/>
 					<p><b>Laura Gheorghe</b></p>
-					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>					
+					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>
+					<p>Telefon: 0748094267</p>
 					<br/>
 					<h2>Mulțumiri</h2>
 <p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Mircea&nbsp;Bardac, Răzvan Deaconescu, Dan Dragomir, Lucia Rosculete,  Cristian Condurache, Petre Eftime<p>	
