@@ -91,8 +91,8 @@ Persoană de contact: Lucia Roșculete<br/>
 Pentru mai multe informații despre această inițiativă, vă rugăm să trimiteți un e-mail către
 					</p>
 					<br/>
-					<p><b>Laura Gheorghe</b>
-					<a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a>
+					<p><b>Laura Gheorghe</b><br/>
+					<a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a><br/>
 					Telefon: 0748094267</p>
 					<br/>
 					<h2>Mulțumiri</h2>
