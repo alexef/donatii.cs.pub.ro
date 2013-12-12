@@ -78,6 +78,7 @@ Persoană de contact: Dan Dragomir<br/>
 <dd>
 Program: <b>L: 10:00-16:00, Ma: 15:00-21:00, Mi: 10:00-16:00, J: 10:00-16:00</b><br/>
 Persoană de contact: Lucia Roșculete<br/>
+<a href="mailto:luciarosculete@gmail.com">luciarosculete@gmail.com</a>
 </dd>
 
 </dl>
@@ -90,9 +91,9 @@ Persoană de contact: Lucia Roșculete<br/>
 Pentru mai multe informații despre această inițiativă, vă rugăm să trimiteți un e-mail către
 					</p>
 					<br/>
-					<p><b>Laura Gheorghe</b></p>
-					<p><a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a></p>
-					<p>Telefon: 0748094267</p>
+					<p><b>Laura Gheorghe</b>
+					<a href="mailto:laura.gheorghe@cs.pub.ro">laura.gheorghe@cs.pub.ro</a>
+					Telefon: 0748094267</p>
 					<br/>
 					<h2>Mulțumiri</h2>
 <p>Mulțumiri echipei adunate anul acesta pentru susținerea inițiativei: Alex&nbsp;Eftimie, Mircea&nbsp;Bardac, Răzvan Deaconescu, Dan Dragomir, Lucia Rosculete,  Cristian Condurache, Petre Eftime<p>	
