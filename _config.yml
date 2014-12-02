@@ -1,0 +1,7 @@
+exclude: README.md
+permalink: pretty
+basepath: /
+url: http://donatii.cs.pub.ro
+paginate: 5
+
+ganalytics: 
