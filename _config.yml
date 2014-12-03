@@ -1,4 +1,4 @@
-exclude: README.md
+#exclude: README.md
 permalink: pretty
 basepath: /
 url: http://donatii.cs.pub.ro
