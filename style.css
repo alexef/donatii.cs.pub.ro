@@ -5,7 +5,7 @@
 }
 
 body {
-	background : #DCDCDC url('resources/images/body-bg-easter.jpg') repeat-x;
+	background : #DCDCDC url('resources/images/body-bg.jpg') repeat-x;
 	color : #808080;
 	font-family : 'Open Sans', 'Verdana', 'Geneva', sans-serif;
 	font-size : 14px;
@@ -85,7 +85,7 @@ div#menu-links a.selected, div#menu-links a:hover {
 }
 
 div#large-bg {
-	background : url('resources/images/large-bg.jpg') 50% 0% no-repeat;
+	background : url('resources/images/large-bg-easter.jpg') 50% 0% no-repeat;
 	min-height : 600px;
 	width : 100%;
 }
